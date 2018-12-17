@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+Hi humans,
+This is shubham, it's my first time to use GitHub.
